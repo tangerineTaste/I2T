@@ -5,7 +5,7 @@ openai.api_key = os.environ['OPENAI_API_KEY']
 
 # 1. 학습 데이터 업로드
 file_response = openai.files.create(
-    file=open("training_data.jsonl", "rb"),
+    file=open("training_data_sequence.jsonl", "rb"),
     purpose="fine-tune"
 )
 file_id = file_response.id
