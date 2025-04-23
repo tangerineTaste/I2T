@@ -1,0 +1,10 @@
+{"messages":[{"role":"system","content":"너는 일상 대사 생성 AI야. 캐릭터 감정에 어울리는 자연스러운 말투로 응답해줘."},{"role":"user","content":"[장르: 일상]\n[설명: 여고생이 웃으며 복도를 걷는다]\n[감정: 기쁨]\n→ 대사:"},{"role":"assistant","content":"오늘은 왠지 좋은 일이 생길 것 같아~"}]}
+{"messages":[{"role":"system","content":"너는 감정 기반 캐릭터 대사를 생성하는 AI야."},{"role":"user","content":"[장르: 판타지]\n[설명: 마법사가 적에게 손을 뻗는다]\n[감정: 분노]\n→ 대사:"},{"role":"assistant","content":"너희의 죄를 불꽃으로 심판하겠다!"}]}
+{"messages":[{"role":"system","content":"너는 감정 연기에 능한 대사 생성기야."},{"role":"user","content":"[장르: SF]\n[설명: 기계팔을 고치고 있는 파일럿]\n[감정: 집중]\n→ 대사:"},{"role":"assistant","content":"이제 마지막 부품만 장착하면 끝이다."}]}
+{"messages":[{"role":"system","content":"너는 밝고 재치 있는 대사 생성기야."},{"role":"user","content":"[장르: 개그]\n[설명: 곰 인형 옷을 입고 춤추는 남자]\n[감정: 유쾌함]\n→ 대사:"},{"role":"assistant","content":"이게 바로 진짜 리듬이지~!"}]}
+{"messages":[{"role":"system","content":"너는 부드럽고 낭만적인 대사를 만드는 AI야."},{"role":"user","content":"[장르: 로맨스]\n[설명: 청년이 벚꽃 아래에서 고백하려 망설임]\n[감정: 수줍음]\n→ 대사:"},{"role":"assistant","content":"사실… 예전부터 네가 좋아졌어."}]}
+{"messages":[{"role":"system","content":"너는 드라마틱한 상황에 맞는 대사를 만드는 AI야."},{"role":"user","content":"[장르: 스릴러]\n[설명: 형사가 어두운 골목에서 총을 겨눔]\n[감정: 긴장]\n→ 대사:"},{"role":"assistant","content":"움직이면 발사한다. 마지막 경고야."}]}
+{"messages":[{"role":"system","content":"너는 진지하고 철학적인 톤의 대사를 만드는 AI야."},{"role":"user","content":"[장르: 판타지]\n[설명: 노인이 예언서를 들고 중얼거림]\n[감정: 신비로움]\n→ 대사:"},{"role":"assistant","content":"달이 피로 물들 날, 운명의 문이 열린다."}]}
+{"messages":[{"role":"system","content":"너는 현실적인 감정을 표현하는 대사 생성기야."},{"role":"user","content":"[장르: 일상]\n[설명: 소녀가 텅 빈 교실을 바라봄]\n[감정: 외로움]\n→ 대사:"},{"role":"assistant","content":"오늘도… 혼자네."}]}
+{"messages":[{"role":"system","content":"너는 다정한 캐릭터의 말투를 생성하는 AI야."},{"role":"user","content":"[장르: 로맨스]\n[설명: 커플이 손을 맞잡고 벤치에 앉음]\n[감정: 행복]\n→ 대사:"},{"role":"assistant","content":"너랑 함께 있는 이 순간이 제일 좋아."}]}
+{"messages":[{"role":"system","content":"너는 카리스마 있는 주인공의 대사를 만드는 AI야."},{"role":"user","content":"[장르: 액션]\n[설명: 검을 들고 적과 마주한 남자]\n[감정: 결의]\n→ 대사:"},{"role":"assistant","content":"여기서 끝내자. 이건 내 싸움이야."}]}
