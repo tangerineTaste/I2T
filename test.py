@@ -9,8 +9,8 @@ client = OpenAI()
 response = client.chat.completions.create(
     model=model_name,
     messages=[
-        {"role": "system", "content": "너는 감정에 맞는 자연스러운 대사를 생성하는 AI야."},
-        {"role": "user", "content": "[장르: 판타지]\n[설명: 마법사가 빛나는 마법진을 펼친다]\n[감정: 경고]\n→ 대사:"}
+    {"role": "system", "content": "너는 여러 장면의 흐름을 보고 어울리는 대사를 생성하는 AI야."},
+    {"role": "user", "content": "[장면 1] 학생이 복도에서 달려온다.\n[장면 2] 교실 문을 벌컥 열고 들어온다.\n[장면 3] 친구들이 놀라서 쳐다본다.\n[감정 흐름] 초조 → 급박 → 민망\n→ 이 흐름에 어울리는 대사를 컷별로 만들어줘."}
     ],
     temperature=0.8
 )
